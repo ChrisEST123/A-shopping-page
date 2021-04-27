@@ -1,0 +1,36 @@
+body{
+    margin-left: auto;
+    margin-right: auto;
+    align: center;
+    width: 8em
+}
+#Error{
+    margin-left: -20em;
+}
+#indexP{
+    margin-left: -2em;
+    width: 10em;
+}
+#description{
+    margin-left: -15em;
+    width: 40em
+}
+#titleCombo{
+    margin-left: -5em;
+    width: 15em
+}
+#basketTable{
+    margin-left: -10em;
+}
+#form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#total{
+    width: 15em
+}
+#endTitle{
+    margin-left: -7em;
+    width: 40em
+}
